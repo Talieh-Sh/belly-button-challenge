@@ -28,8 +28,10 @@ The dashboard includes the following interactive elements:
 
 **HTML/CSS:** Used for structuring and styling the dashboard's webpage.
 
+## Deployment
+This dashboard is hosted on GitHub Pages, providing a seamless and interactive user experience. The app has been deployed directly from the GitHub repository, showcasing the ability of GitHub Pages to support dynamic data visualizations and interactive elements. To view the live dashboard, visit [Belly Button Biodiversity Dashboard](https://talieh-sh.github.io/belly-button-challenge/). or type : https://talieh-sh.github.io/belly-button-challenge/ in browser.
 
-# Usage
+## Usage
 To use the dashboard, simply select a sample ID from the dropdown menu. The dashboard will automatically update all visualizations and information panels to reflect data associated with the selected sample.
 
 
